@@ -52,7 +52,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "electron-is-dev": "^1.1.0",
     "electron-store": "^5.1.0",
     "fs-extra": "^8.1.0",
